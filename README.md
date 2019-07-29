@@ -1,7 +1,7 @@
 # FlightrighCodeChallenge1
 First cold assessment in Flightright Code Challenge
 #################################################################<br>
-## what we know:
+## What we know:
 
 ### Frontend Developer
 
