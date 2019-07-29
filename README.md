@@ -3,7 +3,7 @@ First cold assessment in Flightright Code Challenge
 #################################################################<br>
 ## what we know
 
-##Frontend Developer
+### Frontend Developer
 
 Problem 1
 
@@ -26,7 +26,7 @@ collision is avoided.
 
 Tip - Feel free to use all your coding superpowers to get the best results. 
 
-##Possible Soultion
+## Possible Soultion
 
 We have three trains A, B and C.<br>
 The Train A has 7 stations, B have 6 stations and C have 6 stations.<br>
