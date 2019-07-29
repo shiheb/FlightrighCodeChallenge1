@@ -67,19 +67,19 @@ do {
 <br>
 //train A will change direction if he arrive in the station in one of the extremity <br>
 if (posA == TA.length) <br>
-{ incA = -1; }  <br>
+{ var incA = -1; }  <br>
 if (posA == TA[0]) <br>
 { incA = 1;} <br>
 <br>
 //train B will change direction if he arrive in the station in one of the extremity <br>
 if (posB == TB.length) <br>
-{ incB = -1; }  <br>
+{ var incB = -1; }  <br>
 if (posB == TB[0]) <br>
 { incB = 1;} <br>
 <br>
 //train C will change direction if he arrive in the station in one of the extremity  <br>
 if (posC == TC.length) <br>
-{ incC = -1; } <br>
+{ var incC = -1; } <br>
 if (posC == TC[0]) <br>
 { incC = 1;} <br>
 <br>
